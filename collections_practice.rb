@@ -20,7 +20,15 @@ def kesha_maker
 end 
 
 def find_a
+  start_with? (a)
 end 
 
-def sum_array
+def sum_array(sum)
+    sum = + 
+  return sum 
+end 
+
+def adds_s(word)
+  word.collect
+  return word + "s"
 end 

@@ -2,6 +2,7 @@ def sort_array_asc(int)
   int = [1..100]
   end
   int.sort
+  
 end 
 
 def sort_array-desc
@@ -17,6 +18,7 @@ def reverse_array
 end 
 
 def kesha_maker
+  every
 end 
 
 def find_a
